@@ -2,6 +2,9 @@
 
 **DocuPulse** is an advanced Retrieval-Augmented Generation (RAG) system engineered for high-fidelity document analysis and strategic intelligence extraction. This project explores the intersection of **Vision-Language Layout Understanding (Docling v2)**, **Recursive Retrieval Architecture**, and **High-Speed Inference (Groq)**.
 
+🚀 **[Live Demo: Try DocuPulse on Hugging Face](https://huggingface.co/spaces/NEXAS/challenge-b)**
+
+
 ---
 
 ## 🔬 Architectural Decisions & Rationale
